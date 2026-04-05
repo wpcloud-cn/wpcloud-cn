@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align=>WP Cloud</h1>
 
-<!--
-**wpcloud-cn/wpcloud-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=“中心”>
+  <strong>让每个人轻松拥有自己的网站</strong><br>
+  始于免费 · 成于专业 · 志于长远
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://wpcloud.qzz.io">官方网站</a> ·
+  <a href="https://wpcloud.qzz.io/showcase">网站展示墙</a> ·
+  <a href=“https://wpforum.dpdns.org”>社区论坛</a>
+p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 关于我们
+
+WP Cloud 是一个始于 2025 年的云服务平台，致力于为个人站长、开发者和小型项目提供稳定、易用、低门槛**的网站托管解决方案。
+在开放的互联网上宣示你的地位，让每个人都能在互联网上建立可信赖的家。
+我们相信，无论预算多少，每个人都应该拥有表达自己、分享创造的数字空间。 因此我们从永久免费虚拟主机起步，不断优化技术架构与用户体验。
+
+## 服务特点
+
+-**高性能集群**：基于多节点服务器集群，保障网站访问速度与稳定性。 
+-**极简管理**：提供直观的控制面板，支持一键安装主流建站程序。 
+
+## 发展历程
+
+-**2025 年12** – 项目正式启动，组建技术团队，搭建集群架构。 
+-2026 年1月** – 开放内测，首批用户入驻。 
+-**2026 年3月** – 官网升级，全新品牌 WP Cloud 上线，社区论坛同步开放。 
+-**2026 年3月至今** – 持续优化服务，增加网站展示墙、公益广告位等功能。 
+
+## 未来展望
+
+我们正在规划更多面向不同场景的服务，包括但不限于：
+
+-**付费虚拟主机**：更高资源配额、专属技术支持，满足成长型网站需求。 
+-**应用托管服务**：为开发者提供更灵活的部署环境。 
+-**域名与 SSL 一站式服务**：简化建站流程。 
+
+一切计划将围绕“专业、可靠、用户优先”的原则推进，敬请期待。
+
+## 参与共建
+
+WP Cloud 是一个开放的技术社区。 无论您是用户、开发者还是爱好者，都欢迎通过以下方式参与：
+
+- 在[社区论坛](https://wpforum.dpdns.org)分享经验、提出建议
+- 向[网站展示墙](https://wpcloud.qzz.io/showcase)提交您使用 WP Cloud 搭建的网站
+- 关注我们的[官网](https://wpcloud.qzz.io)获取最新动态
+
+---
+
+<p align=“中心”>p align="center">
+  © 2026 WP Cloud · 保持简单，持续前行
+</p>p>
